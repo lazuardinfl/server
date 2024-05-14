@@ -1,0 +1,9 @@
+
+# ignore
+ignore
+test
+*.ex.*
+
+# secret
+.env
+*.env
